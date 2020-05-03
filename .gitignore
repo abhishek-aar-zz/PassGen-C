@@ -1,0 +1,7 @@
+  
+*.exe linguist-detectable=false
+*.o linguist-detectable=false  
+*.wav linguist-detectable=false
+*.png linguist-detectable=false
+*.mp3 linguist-detectable=false
+*.docx linguist-detectable=false
