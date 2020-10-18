@@ -2,7 +2,9 @@
 A simple password generator in C language.
 Written in: C<br>
 *Only for educational purpose*
-
+## Discliamer
+This is not cryptographically safe. A safe password generator which is cryptographically safe is done with python3.<br>
+![Click here](https://www.github.com/abhishek-aar/)
 ## Instruction Video on Youtube.
 ###### Shall be released soon.
 
