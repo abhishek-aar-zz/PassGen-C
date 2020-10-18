@@ -4,7 +4,7 @@ Written in: C<br>
 *Only for educational purpose*
 ## Discliamer
 This is not cryptographically safe. A safe password generator which is cryptographically safe is done with python3.<br>
-![Click here](https://github.com/abhishek-aar)
+[Click here](https://github.com/abhishek-aar)
 ## Instruction Video on Youtube.
 ###### Shall be released soon.
 
